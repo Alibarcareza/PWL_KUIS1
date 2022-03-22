@@ -7,7 +7,6 @@ use App\Models\barang;
 class BarangController extends Controller
 {
     public function barang(){
-        //$allbarang=barang::all();
         $allbarang=barang::paginate(3);
         return view('barang')
         ->with('title','Barang')
