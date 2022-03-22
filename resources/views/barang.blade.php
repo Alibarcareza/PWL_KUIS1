@@ -7,8 +7,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2>Our Latest Products</h2>
-                        <span>Check out all of our products.</span>
+                        <h2>Daftar Produk Kami</h2>
+                        <span>Selamat datang di daftar produk kami.</span>
                     </div>
                 </div>
             </div>
