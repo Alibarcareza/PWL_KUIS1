@@ -7,8 +7,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2 style="text-align:center">Supplier List</h2>
-                        <span>Welcome to supplier list.</span>
+                        <h2 style="text-align:center">Daftar Supplier</h2>
+                        <span>Selamat Datang Di daftar supplier kami</span>
                     </div>
                 </div>
             
