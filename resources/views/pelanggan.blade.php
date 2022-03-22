@@ -7,8 +7,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2 style="text-align:center">Subscriber List</h2>
-                        <span>Welcome to subscriber list.</span>
+                        <h2 style="text-align:center">Daftar Pelanggan</h2>
+                        <span>Selamat datang di daftar pelanggan.</span>
                     </div>
                 </div>
             
