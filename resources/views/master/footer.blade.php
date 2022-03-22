@@ -7,9 +7,9 @@
                             <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="#">Jl.Soekarno Hatta no.10</a></li>
+                            <li><a href="#">info@suhat.com</a></li>
+                            <li><a href="#">08987653412</a></li>
                         </ul>
                     </div>
                 </div>
@@ -22,10 +22,10 @@
                 <div class="col-lg-3">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="home">Homepage</a></li>
+                        <li><a href="pegawai">Pegawai</a></li>
+                        <li><a href="supplier">Supplier</a></li>
+                        <li><a href="contactUs">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">

@@ -14,8 +14,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Say Hello. Don't Be Shy!</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Welcome To Our Contact</h2>
+                        <span>Details to our contact.</span>
                     </div>
                     <form id="contact" action="" method="post">
                         <div class="row">
@@ -50,9 +50,8 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="section-heading">
-                        <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
-                    </div>
+                        <h2>Silahkan berlanggan di website kami dan dapatkan diskon 30%</h2>
+                      </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
                           <div class="col-lg-5">
@@ -77,15 +76,15 @@
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Jl.Soekarno Hatta no.10</span></li>
+                                <li>Phone:<br><span>08987653412</span></li>
+                                <li>Office Location:<br><span>Soekarno Hatta Store</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
                                 <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
+                                <li>Email:<br><span>info@suhat.com</span></li>
                                 <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
                             </ul>
                         </div>
