@@ -20,9 +20,9 @@ use App\Http\Controllers\ContactusController;
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/pegawai', [App\Http\Controllers\PegawaiController::class, 'pegawai'])->name('pegawai');
 Route::get('/pelanggan', [App\Http\Controllers\PelangganController::class, 'pelanggan'])->name('pelanggan');
-Route::get('/barang', [App\Http\Controllers\BarangController::class, 'barang'])->name('barang');
-Route::get('/supplier', [App\Http\Controllers\SupplierController::class, 'supplier'])->name('supplier');
-Route::get('/contactUs', [App\Http\Controllers\ContactusController::class, 'contactUs'])->name('contactUs');
+Route::get('/barang', [App\Http\Controllers\BarangController::class,'barang'])->name('barang');
+Route::get('/supplier', [App\Http\Controllers\SupplierController::class,'supplier'])->name('supplier');
+Route::get('/contactUs', [App\Http\Controllers\ContactusController::class,'contactUs'])->name('contactUs');
 
 // Route::get('/', function () {
 //     return view('welcome');
