@@ -38,7 +38,7 @@
                 </div>
 
             @endforeach
-               <!-- <div class="col-lg-12">
+               <div class="col-lg-12">
                     <div class="pagination">
                         <ul>
                             <li class="active">
@@ -49,7 +49,7 @@
                             </li>
                         </ul>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-lg-4">
                     <div class="team-item">
                         <div class="thumb">
