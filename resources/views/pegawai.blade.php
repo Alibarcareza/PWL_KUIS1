@@ -36,9 +36,19 @@
                         </div>
                     </div>
                 </div>
-
-
             @endforeach
+               <!-- <div class="col-lg-12">
+                    <div class="pagination">
+                        <ul>
+                            <li class="active">
+                                <a href="?page=1">1</a>
+                            </li>
+                            <li>
+                                <a href="?page=2">2</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div> -->
                 <!-- <div class="col-lg-4">
                     <div class="team-item">
                         <div class="thumb">
@@ -109,5 +119,7 @@
                 </div>
             </div>
         </div>-->
+        
+        {{$all_pegawai->links()}}
     </section> 
     @endsection
